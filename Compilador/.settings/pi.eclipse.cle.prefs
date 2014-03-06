@@ -1,0 +1,11 @@
+//src/CompiladorFortran.cup/cup-compact-red=false
+//src/CompiladorFortran.cup/cup-debug=false
+//src/CompiladorFortran.cup/cup-expected-conflicts=0
+//src/CompiladorFortran.cup/cup-no-positions=false
+//src/CompiladorFortran.cup/cup-no-scanner=false
+//src/CompiladorFortran.cup/cup-non-terms=false
+//src/CompiladorFortran.cup/cup-output=src
+//src/CompiladorFortran.cup/cup-parser-class=CompiladorFortranCup
+//src/CompiladorFortran.cup/cup-symbols-class=CompiladorFortranSym
+//src/CompiladorFortran.cup/cup-symbols-if=true
+eclipse.preferences.version=1
